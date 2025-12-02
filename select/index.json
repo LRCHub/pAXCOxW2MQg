@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "永遠という光",
+  "base_artist": "fhána",
+  "createdAt": "2025-12-02T07:54:27.378584Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eien to Iu Hikari (永遠という光)",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/01_Eien_to_Iu_Hikari_(永遠という光)_fhána.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠という光",
+      "artist": "fhana",
+      "has_synced": false,
+      "path": "select/pl_01_永遠という光_fhana.txt"
+    }
+  ]
+}
